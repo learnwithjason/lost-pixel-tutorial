@@ -1,5 +1,7 @@
 import { type CustomProjectConfig } from "lost-pixel";
 
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore
 export const config: CustomProjectConfig = {
   pageShots: {
     pages: [{ path: "/", name: "landing" }],
