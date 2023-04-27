@@ -4,7 +4,10 @@ import { type CustomProjectConfig } from "lost-pixel";
 // @ts-ignore
 export const config: CustomProjectConfig = {
   pageShots: {
-    pages: [{ path: "/", name: "landing" }],
+    pages: [
+      { path: "/", name: "landing" },
+      { path: "/pricing", name: "pricing" },
+    ],
     baseUrl: "http://172.17.0.1:3000",
   },
   lostPixelProjectId: "clgze4lua005in90e5bqe62ck",
