@@ -17,7 +17,7 @@ export const yearlyPlans = [
   {
     id: "enterprise",
     title: "Enterprise",
-    price: 8_000,
+    price: 10_000,
   },
 ];
 

@@ -13,7 +13,7 @@ export const PricingList = () => {
     <div className="bg-white dark:bg-gray-900">
       <div className="container mx-auto px-6 py-8">
         <p className="text-center text-xl text-gray-500 dark:text-gray-300">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Please buy this so I can afford my summer home in Costa Rica.
         </p>
         <h2 className="mt-4 text-center text-3xl font-semibold capitalize text-gray-800 dark:text-white lg:text-4xl">
           Pricing Plans
